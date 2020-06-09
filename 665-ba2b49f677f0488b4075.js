@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[665],{2448:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var n=u(a(0)),l=u(a(300));function u(e){return e&&e.__esModule?e:{default:e}}var d=function(){return n.default.createElement(l.default,{locale:"gabcdef",translationsLoadingPlaceholder:n.default.createElement("div",null,"No Translations")},n.default.createElement("div",null,"Translations"))};t.default=d}}]);
+//# sourceMappingURL=665-ba2b49f677f0488b4075.js.map
